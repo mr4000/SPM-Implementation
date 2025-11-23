@@ -46,9 +46,13 @@ B(x) = 1 + 2x + 3x^2 + 4x^3 + 5x^4 + 6x^5 + 7x^6 + 8x^7
 
 ![Utilization Report](Results/Report_utilization.png)
 
+
+
 ### SPM-8 Paper Comparison
 
 ![SPM-8 Paper Utilization](Results/SPM_8_Paper_utilization.png)
+
+
 
 ### Output Verification (Python vs Hardware)
 
@@ -57,6 +61,3 @@ B(x) = 1 + 2x + 3x^2 + 4x^3 + 5x^4 + 6x^5 + 7x^6 + 8x^7
 ![Output Waveform](Results/Output_waveform.png)
 
 
-
-$readmemb("reports/simulation/a.mem", mem_a);
-$readmemb("reports/simulation/b.mem", mem_b);
