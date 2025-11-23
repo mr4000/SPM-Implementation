@@ -39,14 +39,16 @@ B(x) = 1 + 2x + 3x^2 + 4x^3 + 5x^4 + 6x^5 + 7x^6 + 8x^7
 
 ## 📊 Vivado Results & Comparison
 
-### ▶ Resource Utilization (Post-Implementation)
 
-![Utilization Report](Results/Report_utilization.png)
 
 ### ▶ Output Verification (Python vs Hardware)
 
 ![Python Output Verification](Results/Python_Implementation_Result.png)  
 ![Output Waveform](Results/Output_waveform.png)
+
+### ▶ Resource Utilization (Post-Implementation)
+
+![Utilization Report](Results/Report_utilization.png)
 
 ### ▶ Paper Comparison (SPM-8 Reference)
 
