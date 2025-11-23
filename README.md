@@ -9,6 +9,6 @@ published by IEEE. The design is developed, synthesized, and implemented using X
 
 The latest and most stable implementation of the SPM algorithm is in:
 
-➡️ **[`SPM_Final.v`](SPM_Final.v)**
+➡️ **[`SPM_Final.v`](SPM.srcs/sources_1/new/SPM_Final.v)**
 
 This file contains the final optimized architecture with all recent updates.
