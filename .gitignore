@@ -1,0 +1,22 @@
+# Vivado auto / big folders - ignore
+SPM.sim/
+SPM.cache/
+SPM.hw/
+SPM.runs/
+.Xil/
+.cache/
+hw_handoff/
+.ip_user_files/.Xil/
+*.jou
+*.log
+*.str
+*.backup
+*.tmp
+*.dcp
+*.ncd
+*.bit
+*.bin
+
+# OS
+.DS_Store
+Thumbs.db
